@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyPlanner", "PartyPlanner\PartyPlanner.csproj", "{D03E77A4-E765-4637-899E-D27C71E34DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowCalculator", "CowCalculator\CowCalculator.csproj", "{4225706A-E77D-4889-8098-28481987823C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03E77A4-E765-4637-899E-D27C71E34DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03E77A4-E765-4637-899E-D27C71E34DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03E77A4-E765-4637-899E-D27C71E34DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03E77A4-E765-4637-899E-D27C71E34DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4225706A-E77D-4889-8098-28481987823C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4225706A-E77D-4889-8098-28481987823C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4225706A-E77D-4889-8098-28481987823C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4225706A-E77D-4889-8098-28481987823C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
