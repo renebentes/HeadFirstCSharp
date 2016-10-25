@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page365", "Page365\Page365.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page366.GoFish", "Page366.GoFish\Page366.GoFish.csproj", "{F54DD5A1-896D-4EBC-8F7C-27A3421212A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page381", "Page381\Page381.csproj", "{913A8D88-FAA4-4252-A899-1E02A3178898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{F54DD5A1-896D-4EBC-8F7C-27A3421212A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F54DD5A1-896D-4EBC-8F7C-27A3421212A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F54DD5A1-896D-4EBC-8F7C-27A3421212A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913A8D88-FAA4-4252-A899-1E02A3178898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913A8D88-FAA4-4252-A899-1E02A3178898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913A8D88-FAA4-4252-A899-1E02A3178898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913A8D88-FAA4-4252-A899-1E02A3178898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
